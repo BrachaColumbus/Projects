@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "69517b5f7d3e1f094791aef0"
+  },
+  "name": "shir",
+  "email": "shir@gmail.com",
+  "password": "$2b$10$1OX132UOI.JErHA2kkkjqu/Exs0xn253lIZVPCF0wf.2Sz7hJvD9e",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69517b657d3e1f094791aef5"
+  },
+  "name": "bela",
+  "email": "bela@gmail.com",
+  "password": "$2b$10$J8uelKP2EyGj8sZN3Ecgt.2wPV5LaI6/Rr8Lm.f4NRAHjD9K6fsLG",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69517b6e7d3e1f094791aefa"
+  },
+  "name": "batya",
+  "email": "batya@gmail.com",
+  "password": "$2b$10$R3Il7EMnRZc96cEejEpJsunJ5/M8aISl5WPr/Xy.1pLusTdKRrTu.",
+  "role": "teacher",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6951b0fa17bdc8a53641aeae"
+  },
+  "name": "crfv",
+  "email": "crfv@gmail.com",
+  "password": "$2b$10$XoarsbhFWLXYVCU7qtFE6ueBF5.SHr9f44K5d4ehXDiA2cMP8Bb5K",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6951bfbb0a83e49be699a41c"
+  },
+  "name": "alice",
+  "email": "alice@gmail.com",
+  "password": "$2b$10$XKIvUUzYF4npLwReoIcQLeUGJ/BtSVTKR8pZso5aWOGpqA/z0mkpK",
+  "role": "teacher",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69529c34df167f8a544cf636"
+  },
+  "name": "gila",
+  "email": "gila@gmail.com",
+  "password": "$2b$10$5kUxPwJPfW7kzcoPjBuw3.h96zpiXWm3hDfAumohJYrjjowVPpD9S",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69529c8adf167f8a544cf647"
+  },
+  "name": "shula",
+  "email": "shula@gmail.com",
+  "password": "$2b$10$WLiAxf7qdbAMsyDcPYkSK.l/6HplWbTTpqNLneprwBOVH1nPkIGTy",
+  "role": "teacher",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6952a8e0c5c71604608eca49"
+  },
+  "name": "MIRI",
+  "email": "MIRI@GMAIL.COM",
+  "password": "$2b$10$H4PUOmGbuqzANpHzpfiXq.xtvE2u422z.FQh2RN0TRbC7kFAt4nxi",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6952aa5dc5c71604608eca6a"
+  },
+  "name": "shprinza",
+  "email": "shprinza@gmail.com",
+  "password": "$2b$10$W3u0bMc31/.zVYJhCTW2nO77Qr6Z4qZ8x6OvBgfhY9sa/zjX/0lXy",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6952aaeec5c71604608eca6f"
+  },
+  "name": "dina",
+  "email": "dina@gmail.com",
+  "password": "$2b$10$iEnMk7dZyYTpXPLY.awqouXVs.dX6399x.GrYE87XFeFRltTOqivG",
+  "role": "student",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6952abaec5c71604608eca87"
+  },
+  "name": "jd",
+  "email": "jd@gmail.com",
+  "password": "$2b$10$AdszMRFy.9QPG1pyuEWjF.o0NGrlDRP5SPsHyHAPV4Zy4cyyjsmwi",
+  "role": "teacher",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6952ac3fc5c71604608eca95"
+  },
+  "name": "נחמה קולומבוס",
+  "email": "NC97443@GMAIL.COM",
+  "password": "$2b$10$LKHg/HmNP3CqLYAfjr5i2uopB6dUGku4K2KDcfXfnm9A74t7Xu5We",
+  "role": "teacher",
+  "__v": 0
+}]

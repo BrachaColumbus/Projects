@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6952eea235ff89ef50a958dd"
+  },
+  "studentId": {
+    "$oid": "69517b5f7d3e1f094791aef0"
+  },
+  "assignmentId": "6952ee5d35ff89ef50a958d0",
+  "githubLink": "shirlink",
+  "__v": 0,
+  "feedback": "כל הכבוד!!!!! רואים שהבנת את החומר היטב!",
+  "grade": 96
+},
+{
+  "_id": {
+    "$oid": "6952f13335ff89ef50a95965"
+  },
+  "studentId": {
+    "$oid": "69517b5f7d3e1f094791aef0"
+  },
+  "assignmentId": "6952ee0135ff89ef50a958c4",
+  "githubLink": "shirlink",
+  "__v": 0,
+  "feedback": "מעולה!",
+  "grade": 82
+},
+{
+  "_id": {
+    "$oid": "6952fb2988f5ff56c4d3b34d"
+  },
+  "studentId": {
+    "$oid": "69517b657d3e1f094791aef5"
+  },
+  "assignmentId": "6952ee0135ff89ef50a958c4",
+  "githubLink": "belalink",
+  "__v": 0,
+  "feedback": "הפגזתתתת!!!כל הכבוד!!!",
+  "grade": 99
+},
+{
+  "_id": {
+    "$oid": "6952feb688f5ff56c4d3b3ac"
+  },
+  "studentId": {
+    "$oid": "69517b5f7d3e1f094791aef0"
+  },
+  "assignmentId": "6952fe8888f5ff56c4d3b397",
+  "githubLink": "shirlink",
+  "__v": 0
+}]

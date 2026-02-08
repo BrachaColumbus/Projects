@@ -1,0 +1,12 @@
+[2026-01-01T20:43:40.361Z] POST /auth/login
+[2026-01-01T20:43:40.544Z] GET /student/assignments
+[2026-01-01T20:43:40.559Z] GET /student/assignments
+[2026-01-01T20:43:40.569Z] GET /student/subbmissions/my
+[2026-01-01T20:43:40.606Z] GET /student/subbmissions/my
+[2026-01-01T20:43:40.616Z] GET /student/assignments-stats
+[2026-01-01T20:43:40.703Z] GET /student/assignments-stats
+[2026-01-01T20:44:23.028Z] POST /auth/login
+[2026-01-01T20:44:23.134Z] GET /teacher/submissions
+[2026-01-01T20:44:23.145Z] GET /teacher/submissions
+[2026-01-01T20:44:23.151Z] GET /teacher/stats
+[2026-01-01T20:44:23.162Z] GET /teacher/stats
