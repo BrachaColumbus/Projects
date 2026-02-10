@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,700;1,400&display=swap');
+
+:root {
+  --gold: #D4AF37;
+  --dark: #121212;
+  --soft-white: #FBFBFB;
+  --border: #E5E5E5;
+  --shadow: 0 20px 40px rgba(0,0,0,0.08);
+}
+
+body {
+  margin: 0;
+  background-color: var(--soft-white);
+  color: var(--dark);
+  font-family: 'Assistant', sans-serif;
+  direction: rtl;
+}
+
+h1, h2, h3 { font-family: 'Playfair Display', serif; }
+
+/* כפתור גלובלי יוקרתי */
+.luxury-button {
+  background: var(--dark);
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  cursor: pointer;
+}
+
+.luxury-button:hover {
+  background: var(--gold);
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(212, 175, 55, 0.2);
+}
+
+/* שדות קלט (Inputs) */
+input, textarea {
+  border: 1px solid var(--border);
+  padding: 15px;
+  background: white;
+  font-family: 'Assistant';
+  transition: 0.3s;
+}
+
+input:focus {
+  outline: none;
+  border-color: var(--gold);
+}

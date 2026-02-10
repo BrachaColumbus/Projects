@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  --primary-gold: #c5a059;
+  --dark-text: #1a1a1a;
+  --light-gray: #f8f8f8;
+  --white: #ffffff;
+  --shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+body {
+  margin: 0;
+  font-family: 'Assistant', sans-serif;
+  background-color: var(--light-gray);
+  color: var(--dark-text);
+  direction: rtl;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+}
+
+/* כפתור יוקרתי */
+button {
+  cursor: pointer;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.btn-gold {
+  background-color: var(--primary-gold);
+  color: white;
+}
+
+.btn-gold:hover {
+  background-color: #a38445;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(197, 160, 89, 0.3);
+}
+
+/* עיצוב כרטיס מתכון */
+.recipe-card {
+  background: var(--white);
+  border-radius: 0; /* מראה מודרני יותר בלי פינות מעוגלות מדי */
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.4s ease;
+  border-bottom: 3px solid transparent;
+}
+
+.recipe-card:hover {
+  transform: translateY(-10px);
+  border-bottom: 3px solid var(--primary-gold);
+}
